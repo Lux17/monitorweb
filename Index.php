@@ -402,7 +402,7 @@
     setInterval(checkStatus5, 1000); // Menunggu 5 detik untuk pengecekan berikutnya
 </script>
 
-<script>
+<!-- <script>
     // Fungsi untuk memeriksa status website setiap 5 detik
     function checkStatus6() {
         $.ajax({
@@ -419,7 +419,7 @@
 
     // Panggil fungsi checkStatus setiap 5 detik
     setInterval(checkStatus6, 1000); // Menunggu 5 detik untuk pengecekan berikutnya
-</script>
+</script> -->
 
 <script>
     // Fungsi untuk memeriksa status website setiap 5 detik
